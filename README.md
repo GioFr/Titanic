@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster
+# Titanic - Classification Problem
 In this notebook we perform some data analysis on Titanic dataset provided on Kaggle. 
 
 The objective of this task is to predict the survival rate of passengers. It's clearly a classification probem, thus we can use several machine learning or deep learning techniques to tackle this problem. In this case I am using typical machine learning technics such as: Support Vector Machines, KNN, Logistic Regression, Random Forest, Naive Bayes, Linear SVC, Decision Tree. Before applying the ML techniques to data first it is necessary to perform some data preprocessing to unfold some correlations between different features, including some feature removal or creating some additional more descriptive features. 
